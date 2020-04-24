@@ -1,3 +1,0 @@
-This is 1 of first Git file.
-
-This is Second Line.
