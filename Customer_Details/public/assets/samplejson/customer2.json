@@ -1,0 +1,16 @@
+{
+	"name": "John Barnes",
+	"guid": "1c124672-e92b-4306-9d86-85555eefe123",
+	"salesforceID": "1010X000049zKynQAT",
+	"barcodeNumber": "8154608709121380",
+	"email": "jbarnes@test.com",
+	"isActive": "false",
+	"dateMembership": "2020-01-01",
+	"optInStatus": "pending",
+	"isPrivilege": "false",
+	"dateJoinedPrivilege": "2019-01-01",
+	"datelastLoggedin": "2019-01-01",
+	"spendSegment": "No Star",
+	"language": "en-gb",
+	"country": "Ireland"
+}

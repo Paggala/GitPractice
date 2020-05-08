@@ -1,0 +1,16 @@
+{
+	"name": "JPhil Robinson",
+	"guid": "1c124672-e92b-4306-9d86-85555eefe09c",
+	"salesforceID": "0010X000049zKynQAT",
+	"barcodeNumber": "8054608709121380",
+	"email": "jprobinson@test.com",
+	"isActive": "true",
+	"dateMembership": "2020-01-01",
+	"optInStatus": "Double",
+	"isPrivilege": "True",
+	"dateJoinedPrivilege": "2020-01-01",
+	"datelastLoggedin": "2020-11-01",
+	"spendSegment": "One Star",
+	"language": "en-gb",
+	"country": "UK"
+}

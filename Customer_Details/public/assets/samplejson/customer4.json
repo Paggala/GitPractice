@@ -1,0 +1,16 @@
+{
+	"name": "Padmavathi Aggala",
+	"guid": "1c145672-e92b-4506-9d86-85555eefe09c",
+	"salesforceID": "0020X000049zKynQAT",
+	"barcodeNumber": "8054608709121389",
+	"email": "paggala@test.com",
+	"isActive": "true",
+	"dateMembership": "2020-01-01",
+	"optInStatus": "Double",
+	"isPrivilege": "True",
+	"dateJoinedPrivilege": "2020-03-01",
+	"datelastLoggedin": "2020-04-01",
+	"spendSegment": "Five Star",
+	"language": "en-gb",
+	"country": "Australia"
+}

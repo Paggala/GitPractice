@@ -1,0 +1,21 @@
+[{
+	"guid": 1,
+	"name": "JPhil Robinson",
+	"email": "probinson@test.com",
+	"status": "Active"
+}, {
+	"guid": 2,
+	"name": "John Barnes",
+	"email": "jbarnes@test.com",
+	"status": "Not Active"
+}, {
+	"guid": 3,
+	"name": "Sarah Roberts",
+	"email": "sroberts@test.com",
+	"status": "Active"
+},{
+	"guid": 4,
+	"name": "Padmavathi Aggala",
+	"email": "paggala@test.com",
+	"status": "Active"
+}]
