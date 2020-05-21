@@ -1,0 +1,32 @@
+[
+{"User": "Inmaculada Peiro Garcia",
+"Permissions":"Group Admin",
+"Villages" : "BV,FV,LZ,IV,LV,MV,LR,WV,KV,SZ,SV,SH",
+"Email": "shaile.agrawal@hitachivantara.com",
+"Phone":  1111111
+},
+{"User":"Craig Gillespie",
+    "Permissions":"Group Admin",
+    "Villages" : "BV,FV",
+    "Email": "rajesh.soma@hitachivantara.com",
+    "Phone":  222222
+    },
+    {"User": "Farid Robertson",
+        "Permissions":"village Admin",
+        "Villages" : "BV,FV,WV,KV,SZ,SV,SH",
+        "Email": "padma.A@hitachivantara.com",
+        "Phone":  33333
+        },
+        {"User": "Hannah McDonald",
+            "Permissions":"Village User",
+            "Villages" : "BV,FV,LZ,IV,SZ,SV,SH",
+            "Email": "Pranathi.Kothakapu@hitachivantara.com",
+            "Phone":  44444444
+            },
+            {"User":"Jonathan Bywater",
+                "Permissions":"Group Admin",
+                "Villages" : "BV,FV,LZ,IV,LV,MV,LR,WV,KV,SZ,SV,SH",
+                "Email": "Vijaya.soppali@hitachivantara.com",
+                "Phone":  55
+                }
+]
